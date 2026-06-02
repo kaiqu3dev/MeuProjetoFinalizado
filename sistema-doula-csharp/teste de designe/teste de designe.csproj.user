@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\kaique.smatos\Desktop\Finish\sistema-doula-csharp\teste de designe\Properties\PublishProfiles\FolderProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="PaginaAgendamentoDoula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaginaInformativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PainelAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaDeCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaginaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PanelTransparent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="TelaDePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaHistoricoDeAgendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
